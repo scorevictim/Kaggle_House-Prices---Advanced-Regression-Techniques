@@ -30,9 +30,9 @@ Data used in this project: https://www.kaggle.com/c/house-prices-advanced-regres
 
 * Model Build & Compration
 
-- Tuning Hyperparameters with Optuna
+	- Tuning Hyperparameters with Optuna
 
-- Model Comparison
+	- Model Comparison
 
 * File Output
 
