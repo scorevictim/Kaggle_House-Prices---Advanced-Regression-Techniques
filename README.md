@@ -6,7 +6,9 @@
 
 This work is for my final project of MSIS2631 - Machine Learning.
 
-In this project, I used several different regressors such as ElasticNet, Light Gradient Boost, Random Forest... to predict the house price.
+In this project, I used several different regressors such as `ElasticNet`, `Light Gradient Boost`, and `Random Forest`... to predict the house price.
+
+For the hyperparameters tuning, I used `optuna`, a good automatic hyperparameter optimization software framework.
 
 ### Competition Overview
 
@@ -34,6 +36,8 @@ Data used in this project: https://www.kaggle.com/c/house-prices-advanced-regres
 
 ## Dependencies
 
-See in "requirements.txt"
+This work is based on python.
 
-You can use "pip install -r requirements.txt" to replicate the environment used for this project.
+See all the needed libraries in "requirements.txt"
+
+You can use "pip install -r requirements.txt" to replicate the environment used for this project. Make sure to new a python virtual environments to avoid conflicts.
