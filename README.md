@@ -34,13 +34,13 @@ Data used in this project: https://www.kaggle.com/c/house-prices-advanced-regres
 
 	- Model Comparison
 	
-* Model Stacking & Blending
+* Model Stacking & Blending 
 
 * File Output
 
 ## Dependencies
 
-This work is based on python.
+This work is purely based on python.
 
 See all the needed libraries in "requirements.txt"
 
