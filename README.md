@@ -33,6 +33,8 @@ Data used in this project: https://www.kaggle.com/c/house-prices-advanced-regres
 	- Tuning Hyperparameters with Optuna
 
 	- Model Comparison
+	
+* Model Stacking & Blending
 
 * File Output
 
