@@ -2,3 +2,5 @@
 .vscode
 MSIS26ML.code-workspace
 *.csv
+input
+test.ipynb
